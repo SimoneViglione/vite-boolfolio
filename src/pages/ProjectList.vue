@@ -23,7 +23,7 @@
     import { store } from '../store';
 
     export default {
-        name: 'AppMain', 
+        name: 'ProjectList', 
         data () {
             return {
                 projects: [],
